@@ -1,5 +1,5 @@
 # Get To Know Me Better 👋
-- 👨‍🎓 An electrical and electronics engineer who develops software
+- 👨‍🎓 An electrical electronics engineer who develops software
 - 🔥 I’m currently working JAVA-React-PostgreSQL-Spring Boot
 - 🏃🏻 I’m currently learning on C#
 - 🤜🤛 Contact me => https://www.linkedin.com/in/ardanogay/
