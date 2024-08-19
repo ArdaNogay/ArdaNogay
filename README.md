@@ -6,7 +6,7 @@
 
 - 🔥 I’m currently working on **JAVA-React-PostgreSQL-Spring Boot**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Python & Django**
 - 💪 No one in this world applauds the brave people who sit in the audience seat. Applause is always for those who take the stage.
 
 <h3 align="left">Connect with me:</h3>
